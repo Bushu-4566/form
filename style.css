@@ -1,0 +1,19 @@
+h1{
+    color: purple;
+    text-align: center;
+    padding: auto;
+}
+h2{
+    color:red;
+    background-color: pink;
+    font-size: 100px;
+    text-align: center;
+}
+button{
+    color: white;
+    background-color: black;
+    font-size: medium;
+    hover:background-color:yellow;
+        color:blue;
+    
+}
